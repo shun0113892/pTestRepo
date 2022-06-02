@@ -5,7 +5,7 @@ import javax.servlet.annotation.WebServlet;
 @WebServlet("/ReviewDTO")
 public class ReviewDTO { 
 	private int id;
-	private String name;
+	private String name; 
 	private int age;
 	public int getId() {
 		return id;
