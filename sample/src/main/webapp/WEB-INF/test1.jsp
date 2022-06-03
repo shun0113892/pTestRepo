@@ -13,5 +13,6 @@
 名前：<c:out value="${ac.name}"/><br>
 age：<c:out value="${ac.age}"/><br>
 </c:forEach>
+
 </body>
 </html>
